@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../image/bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-size: cover;
+    overflow-y: hidden;
+    font-family: 'Source Serif Pro', serif;
+}
+
+h1 {
+    text-align: center;
+    color: #d4d2c5;
+    font-size: 4em;
+}
+
+#jokes {
+    color: white;
+    font-size: 2em;
+}
